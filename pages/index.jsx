@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Healthy Eats</title>
+        <title>Healthy Eats | Home</title>
         
         <meta name="description" content="Your go to stop for healthy recipes!" />
         <link rel="icon" href="/favicon.ico" />
